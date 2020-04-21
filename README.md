@@ -14,7 +14,7 @@ npm i --save transducerJS
 ## Usage
 
 ```javascript
-const { transducer, filter, map } = require('./transducer')
+const { transducer, filter, map } = require('transducerjs')
 
 const numbers = [1, 2, 3]
 const result = transducer(map(x => x * 2), filter(x => x > 2))(numbers)
@@ -22,15 +22,19 @@ const result = transducer(map(x => x * 2), filter(x => x > 2))(numbers)
 console.log(result) // [ 4, 6 ]
 ```
 
-### Tests
+## Contributing
 
-You can run the tests suites placed in the ```test``` folder with:
+First, clone this repo:
 
-```bashq
-npm test
+```bash
+git clone https://github.com/pabloos/transducerJS.git
 ```
 
-## Contributing
+Add changes and keep the tests suites passed:
+
+```bash
+npm test
+```
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
