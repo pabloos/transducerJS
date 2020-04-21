@@ -1,8 +1,11 @@
 {
-  "name": "transducerJS",
-  "version": "0.0.1",
+  "name": "transducerjs",
+  "version": "0.0.0",
   "description": "A transducer implementation in JS",
   "main": "transducer.js",
+  "files": [
+    "transducer.js"
+  ],
   "scripts": {
     "test": "jest --verbose",
     "test-watch": "jest --watchAll --verbose"
