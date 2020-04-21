@@ -1,0 +1,21 @@
+{
+  "name": "transducerJS",
+  "version": "0.0.1",
+  "description": "A transducer implementation in JS",
+  "main": "transducer.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test-watch": "jest --watchAll --verbose"
+  },
+  "keywords": [
+    "transducer",
+    "transducers",
+    "functional programming"
+  ],
+  "author": "Carlos Caballero & Pablo Cumpian",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
