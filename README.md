@@ -1,7 +1,7 @@
 
 # :battery: :battery: transducerJS
 
-trandsducerJS is a transducer implementation in js based on Carlos Caballero's one: https://gist.github.com/Caballerog/79d1cd60afb94d91868a2ab7ce62a41e
+trandsducerJS is a transducer implementation in js based on [Carlos Caballero's one]( https://gist.github.com/Caballerog/79d1cd60afb94d91868a2ab7ce62a41e)
 
 ## Installation
 
