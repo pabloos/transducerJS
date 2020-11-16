@@ -1,6 +1,6 @@
 {
   "name": "transducerjs",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A transducer implementation in JS",
   "main": "transducer.js",
   "files": [
